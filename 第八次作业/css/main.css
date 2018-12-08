@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+}    
+#input{
+    width:70vh;
+    height:10vh;
+    text-align:left;
+    font-size: 7vh;
+}
+button{
+    margin-top:0.5vh;
+    margin-left:1vh;
+    width:15vh;
+    height:15vh;
+}
+#container{
+    margin-left:1px;
+    border:1px solid #E4E4E4;
+    background:#BBBBBB;
+    width:70vh;
+    height:80vh;
+}
+.chang{
+    margin-top:0.5vh;
+    margin-left:1vh;
+    width:32vh;
+    height:15vh;
+}
